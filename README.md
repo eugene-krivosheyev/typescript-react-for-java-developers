@@ -1,8 +1,7 @@
 # Frontend development with Typesript and React for Java backenders
-Crash course for Java Backend Developers to Full-stack Developers.
 ========================================
 
-_24 hrs / 3 days_
+Crash course for Java Backend Developers to Full-stack Developers. _24 hrs / 3 days_
 
 # Attendee prerequisites
 - [ ] Java Backend Developer experience up to 3 yrs.
