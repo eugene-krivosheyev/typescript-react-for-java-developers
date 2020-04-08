@@ -1,8 +1,5 @@
-# Frontend development with Typesript and React for Java backenders
-Crash course for Java Backend Developers to Full-stack Developers.
-========================================
-
-_24 hrs / 3 days_
+# Frontend development with TypeScript and React for Java backenders
+Crash course for Java Backend Developers to Full-stack Developers. _32 hrs / 4 days_
 
 # Attendee prerequisites
 - [ ] Java Backend Developer experience up to 3 yrs.
@@ -69,10 +66,11 @@ git clone --branch master --depth 1 https://github.com/eugene-krivosheyev/typesc
 - [ ] HTML containers
 ### SPA layout overview
 - [ ] SPA architecture
+- [ ] CORS technology
 ### React components
 - [ ] Why React?
 - [ ] React components overview
-- [ ] ReactDOM
+- [ ] React Virtual DOM architecture
 - [ ] React Router
 
 ## Hands-on iteration 00: Analysing application HTML and CSS assets (0.5)
@@ -96,16 +94,25 @@ git clone --branch master --depth 1 https://github.com/eugene-krivosheyev/typesc
 
 ## Hands-on iteration 01 (0.5)
 
+## SASS (1)
+- [ ] SASS overview
+- [ ] SASS builders
+- [ ] Bootstrap intro
+- [ ] DB WebADK standard components lib
+
+## Hands-on iteration 02 (0.5)
+
 ## TS SPA Code quality and debugging (0.5)
 ### TSLint tool
 - [ ] TSLint as Java static code analysis tools
 - [ ] Running tslint within build
 ### Debug
+- [ ] Debugging web app with Chrome
 - [ ] TS debugging with IDEA
 - [ ] Browser hot reloading
 - [ ] Backend stubs
 
-## Hands-on iteration 02 (0.5)
+## Hands-on iteration 03 (0.5)
 
 ## TS Syntax Overview against Java key features (1.5)
 ### Packages and JARs
@@ -129,7 +136,7 @@ git clone --branch master --depth 1 https://github.com/eugene-krivosheyev/typesc
 ### Excepions
 - [ ] Exceptions
 
-## Hands-on iteration 03 (1)
+## Hands-on iteration 04 (1)
 
 ## TS Type System (1.5)
 ### Basic Types
@@ -163,7 +170,7 @@ git clone --branch master --depth 1 https://github.com/eugene-krivosheyev/typesc
 - [ ] Decorator
 - [ ] Factory
 
-## Hands-on iteration 04 (1)
+## Hands-on iteration 05 (1)
 
 ## React with TS (1.5)
 ### Setting up TS + React project
@@ -179,13 +186,16 @@ git clone --branch master --depth 1 https://github.com/eugene-krivosheyev/typesc
 - [ ] Implementing higher-order components
 - [ ] React Hooks
 
-## Hands-on iteration 05 (1)
+## Hands-on iteration 06 (1)
 
 ## Async backend communication (1.5)
 ### Asyncronous operations
 - [ ] TS parallelism model
 - [ ] Promices
 - [ ] async/await
+### WebSockets architecture
+- [ ] WebSockets and how it works
+- [ ] Blocking / non-blocking interactions over WS
 ### HTTP clients overview
 - [ ] typescript-http-client
 - [ ] typed-rest-client
@@ -195,7 +205,39 @@ git clone --branch master --depth 1 https://github.com/eugene-krivosheyev/typesc
 - [ ] API overview
 - [ ] Errors handling
 
-## Hands-on iteration 06 (1)
+## Hands-on iteration 07 (1)
+
+## Redux & Saga (1.5)
+### Functional design overview
+- [ ] Functional design
+### Redux
+- [ ] Redux architecture
+- [ ] Provider
+- [ ] Store
+- [ ] Action Creator
+- [ ] Reducer
+- [ ] Action Type
+- [ ] Selector
+### Redux-Saga
+- [ ] Saga architecture
+- [ ] Helper
+- [ ] Effect
+- [ ] Generator
+- [ ] Dispath
+- [ ] Error
+
+## Hands-on iteration 08 (1)
+
+## Testing SPA (1)
+### Autotests overview
+- [ ] Structure
+- [ ] Test Data
+- [ ] Scope
+- [ ] Test Doublers
+### Testing with Jest
+### Testing with enzym/react-testing-library/redux-saga-test-plan
+
+## Hands-on iteration 08 (1)
 
 ## Final Retro (0.5/0.5)
 ### Given
